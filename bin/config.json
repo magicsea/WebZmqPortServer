@@ -1,0 +1,6 @@
+{
+	"PostURL":"pay",
+	"OnException":"exception:#ERRMSG#",
+	"MQRemote":"tcp://localhost:15980",
+	"FormNames":["transdata","sign"]
+}
